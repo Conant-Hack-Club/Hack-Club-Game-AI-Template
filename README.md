@@ -1,5 +1,12 @@
 # Game AI Template
 
+## What is provided
+
+Initially, I have given you most of the completed code for having a Game AI play Pong. 
+However, I have removed some crucial parts from the JavaScript files that will prevent
+the project from properly running. Please follow the steps below to complete this project and 
+add your own customization.
+
 ## Steps
 
 1. Go into script.js and game.js and add in code wherever there is a "TODO"
