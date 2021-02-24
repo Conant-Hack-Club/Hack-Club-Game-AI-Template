@@ -19,7 +19,7 @@ add your own customization.
 
 ## Files
 
-game.js: Has Game class
-script.js: Has the main JavaScript code
-index.html: HTML code with p5.js and neataptic.js imports
-style.css: not used
+- game.js: Has Game class
+- script.js: Has the main JavaScript code
+- index.html: HTML code with p5.js and neataptic.js imports
+- style.css: not used
